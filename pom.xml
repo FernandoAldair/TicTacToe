@@ -54,7 +54,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>uf2.mp3.java.Main</mainClass>
+                            <mainClass>uf2.mp3.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
