@@ -20,6 +20,9 @@ public class Main extends Application {
         mainWindows.setScene(scene);
         mainWindows.setStage(primaryStage);
 
+        primaryStage.setScene(scene);
+        primaryStage.show();
+
 
 
     }

@@ -4,6 +4,8 @@ import javafx.event.ActionEvent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+import java.awt.*;
+
 public class MainWindows {
 
     private Scene scene;
@@ -23,8 +25,12 @@ public class MainWindows {
     }
 
     public void clickButton(ActionEvent actionEvent) {
+        Boolean turno = true;
+        Button b = (Button) actionEvent.getSource();
+        System.out.println("hola");
 
 
 
     }
+
 }
